@@ -5,6 +5,7 @@
  *string_nconcat -function that concatenates two strings
  *@s1: string one
  *@s2: string two
+ *@n: number to concantenate s2
  *Return:n concatinating string
  */
 
