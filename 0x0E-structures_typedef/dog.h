@@ -10,6 +10,11 @@
  * Desc: first struct
  */
 
+/**
+ * dog_t - new name type for struct dog
+ */
+typedef struct dog dog_t;
+
 struct dog
 {
 	char *name;
